@@ -61,11 +61,11 @@ The dataset consists of two tables:
 5. **Item Wise** American Cheeseburger contributes higher in total sales. Each category is driven by small number of high performing items, suggesting revenue concentration within select products
    
 **Recommendations**
-1.Introduce **combo deals** or discounts on multiple item purchases to **increase average order value.**
-2.Promote **Korean Beef Bowl and Hamburger** flagship product and consider bundling it with complementary items to maximize revenue.
-3.Low-performing items should be evaluated for pricing, visibility, and customer preference before making pricing adjustments.
-4.Focus on expanding high-performing categories.
-5.Highlight best seller items from different cuisines and use them for targeted promotions.
+1. Introduce **combo deals** or discounts on multiple item purchases to **increase average order value.**
+2. Promote **Korean Beef Bowl and Hamburger** flagship product and consider bundling it with complementary items to maximize revenue.
+3. Low-performing items should be evaluated for pricing, visibility, and customer preference before making pricing adjustments.
+4. Focus on expanding high-performing categories.
+5. Highlight best seller items from different cuisines and use them for targeted promotions.
 
 ### Customer behavior
 1. Average number of items per order is 2(approx), and certain number of items are frequently ordered together such as Hamburger and Edamame (120 orders) indicating strong pairing behaviour.

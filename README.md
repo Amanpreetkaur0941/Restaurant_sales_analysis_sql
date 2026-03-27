@@ -85,6 +85,7 @@ Peak hours: 11-01pm and 04-06pm
 Peak days: Sunday, Monday(Peak), Friday, Saturday
 
 **Recommendations: Staff optimization**
+
 Optimize staff allocation and kitchen operations during peak hours to improve efficiency and service quality.
 
 ### Key Recommendations

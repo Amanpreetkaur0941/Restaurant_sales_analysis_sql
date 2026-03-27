@@ -98,6 +98,19 @@ Optimize staff allocation and kitchen operations during peak hours to improve ef
 ### Conclusion
 For further optimization, stakeholders can leverage these insights to implement targeted promotions, adjust staffing schedules, and enhance menu offerings. Continuous monitoring and periodic data updates will ensure decisions remain data-driven and impactful.
 
+## Feedback
+I am actively refining my skills in Business Analytics and Data-driven decision making.
+
+If you have feedback on:
+- Dashboard clarity
+- Insight quality
+- Analytical depth
+- Business framing
+
+I would greatly appreciate your perspective.
+
+**Let's connect on:** [LinkedIn](https://www.linkedin.com/in/amanpreet-kaur-37aa17242/)
+
 
 
 

@@ -49,18 +49,49 @@ The dataset consists of two tables:
    - order_date  
    - order_time
 ## Tools Used
-- SQL (MySQL) → Data analysis  
-   - item_id
+- SQL (MySQL) → Data analysis
+  
 ## Key Analysis & Insights
-**Overall Business Performance**
-**Insights:**
+
+### Revenue & Performance
 1. The restaurant shows multi-item purchasing behavior, with an average of approximately **2 items per order**, indicating potential for **bundled offerings.**
-**Recommendation:**
-Introduce **combo deals** or discounts on multiple item purchases to **increase average order value.**
+2. **Korean Beef Bowl and Hamburger** emerges as the top-selling item, highlighting strong customer preference and consistent demand.
+3. **Chicken Tacos** is underperforming in terms of volume.
+4. **Category wise** Italian cuisine contributes higher in terms of total percentage of sales, indicating revenue is concentrated in a few key categories, indicating clear customer preferences toward specific cuisines.
+5. **Item Wise** American Cheeseburger contributes higher in total sales. Each category is driven by small number of high performing items, suggesting revenue concentration within select products
+   
+**Recommendations**
+1.Introduce **combo deals** or discounts on multiple item purchases to **increase average order value.**
+2.Promote **Korean Beef Bowl and Hamburger** flagship product and consider bundling it with complementary items to maximize revenue.
+3.Low-performing items should be evaluated for pricing, visibility, and customer preference before making pricing adjustments.
+4.Focus on expanding high-performing categories.
+5.Highlight best seller items from different cuisines and use them for targeted promotions.
 
-2. **Top Performing Items**
+### Customer behavior
+1. Average number of items per order is 2(approx), and certain number of items are frequently ordered together such as Hamburger and Edamame (120 orders) indicating strong pairing behaviour.
+2. Additionally, Edamame appears across multiple high-frequency combinations suggesting its role as a preferred complementary item.
+3. While Korean Beef Bowl is the top-selling item it does not appear prominently in frequent combinations.
+4. Customer behavior analysis shows that customers are more inclined towards bundeled purchases.
 
-**Korean Beef Bowl** emerges as the top-selling item, highlighting strong customer preference and consistent demand.
-**Recommendation:**
-Promote this item as a flagship product and consider bundling it with complementary items to maximize revenue.
+**Recommendations: Menu optimization**
+1. Introducing combo meals with frequently paired items like Edmame to increase order value and enhance customer experience.
+2. Creating combo offers or suggest add-ons with Korean Beef Bowl to leverage its high demand.
+
+### Operations Analysis 
+Order patterns vary across hours and days
+Peak hours: 11-01pm and 04-06pm 
+Peak days: Sunday, Monday(Peak), Friday, Saturday
+
+**Recommendations: Staff optimization**
+Optimize staff allocation and kitchen operations during peak hours to improve efficiency and service quality.
+
+### Key Recommendations
+- Introduce combo meals for frequently paired items  
+- Promote top-selling items as flagship offerings  
+- Bundle high-demand mains with complementary sides  
+- Optimize low-performing categories  
+- Improve staffing based on peak hour trends  
+
+
+
 

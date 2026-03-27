@@ -79,7 +79,9 @@ The dataset consists of two tables:
 
 ### Operations Analysis 
 Order patterns vary across hours and days
+
 Peak hours: 11-01pm and 04-06pm 
+
 Peak days: Sunday, Monday(Peak), Friday, Saturday
 
 **Recommendations: Staff optimization**
@@ -90,7 +92,11 @@ Optimize staff allocation and kitchen operations during peak hours to improve ef
 - Promote top-selling items as flagship offerings  
 - Bundle high-demand mains with complementary sides  
 - Optimize low-performing categories  
-- Improve staffing based on peak hour trends  
+- Improve staffing based on peak hour trends
+
+### Conclusion
+For further optimization, stakeholders can leverage these insights to implement targeted promotions, adjust staffing schedules, and enhance menu offerings. Continuous monitoring and periodic data updates will ensure decisions remain data-driven and impactful.
+
 
 
 

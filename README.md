@@ -37,7 +37,7 @@ The primary objective of this analysis is to support data-driven decision-making
 * What strategies can be implemented to improve overall revenue?
 
  ## Dataset Description
-*The dataset consists of two tables:
+The dataset consists of two tables:
 
 1. menu_items  
    - menu_item_id  
@@ -47,6 +47,20 @@ The primary objective of this analysis is to support data-driven decision-making
 2. order_details 
    - order_id  
    - order_date  
-   - order_time  
-   - item_id   
+   - order_time
+## Tools Used
+- SQL (MySQL) → Data analysis  
+   - item_id
+## Key Analysis & Insights
+**Overall Business Performance**
+**Insights:**
+1. The restaurant shows multi-item purchasing behavior, with an average of approximately **2 items per order**, indicating potential for **bundled offerings.**
+**Recommendation:**
+Introduce **combo deals** or discounts on multiple item purchases to **increase average order value.**
+
+2. **Top Performing Items**
+
+**Korean Beef Bowl** emerges as the top-selling item, highlighting strong customer preference and consistent demand.
+**Recommendation:**
+Promote this item as a flagship product and consider bundling it with complementary items to maximize revenue.
 
